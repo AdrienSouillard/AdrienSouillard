@@ -4,8 +4,14 @@
 </p>
 
 <hr>
+<h2>✅ My main skills</h2>
+
+
+<hr>
+
 
 <h2 id="projects">Projects</h2>
+
 
 
 <hr>
