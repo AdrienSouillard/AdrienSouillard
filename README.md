@@ -3,6 +3,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&amp;font=IBM+Plex+Sans&amp;color=abcdef&amp;size=20&amp;lines=Welcome+to+my+GitHub+Profile!;I'm+a+MMI+Student"></a>
 </p>
 
+<hr>
+
+<h2 id="projects">Projects</h2>
+
 
 <hr>
 <p align="center">
